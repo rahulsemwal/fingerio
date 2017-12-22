@@ -1,0 +1,2 @@
+# fingerio
+ **finger scan javascript plugin** , I have made this Javascript plugin for finger scan UI for web application as touch id work in iphone and android phones.  You can add my small plugin to save your time and money and obviously it is open source and available for everybody. You are also open to contribute in it for making this better and better for future web UI developers.
